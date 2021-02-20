@@ -1,0 +1,48 @@
+TODO:
+ - [ ] Email System
+     - [ ] Ads
+	 - [ ] Change password
+	 - [ ] other
+ - [ ] Account System
+     - [x] Main user class with password encryption
+	 - [ ] Email for saftey and super pass encryption
+	 - [ ] Save files
+ - [ ] Data base
+ - [ ] Learn MongoDB
+ - [ ] Characters
+	 - [x] __init__ function
+	 - [ ] __str__ function
+	 - [ ] __dict__ function
+	 - [ ] save fucntion
+	 - [ ] 
+ - [ ] Mini Games
+	 - [ ] Fishing
+		 - [x] Base Game
+		 - [ ] Special items
+			 - [ ] good special items
+			 - [ ] bad special items
+			 - [ ] big fish combat encounter
+				 - [ ] finish combat system
+				 - [ ] finish monster class
+				 - [ ] finish character class
+			 - [ ] other
+		 - [ ] Fish types
+		 - [ ] anything else i think of later		
+ - [ ] Set up the Combat system
+	 - [x] Initive
+	 - [ ] Turns
+		 - [ ] Attack
+		 - [ ] Brace
+		 - [ ] Cast
+		 - [ ] Item
+		 - [ ] Abilty
+     - [ ] Rounds
+ - [ ] Set up Boards
+	 - [ ] Set Up Map
+	 - [ ] Set up Traversal of board
+	 - [ ] Set up tiles
+ - [ ] Set up NPC
+	 - [ ] Set up interactoins
+ - [ ] set up small seneraio
+ - [ ] set up main senario
+ - [ ] make a system for people to make their own senarios
