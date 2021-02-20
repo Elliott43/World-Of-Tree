@@ -39,7 +39,7 @@
  - [ ] Traversal of board
  - [ ] Tiles
 # NPC
- - [ ] interactoins
+ - [ ] interactions
 # Other
  - [ ] set up small seneraio
  - [ ] set up main senario
