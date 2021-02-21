@@ -11,9 +11,12 @@
  - [ ] Save files
 ## Characters
  - [x] __init__ function
- - [ ] __str__ function
- - [ ] __dict__ function
+ - [x] __str__ function
+ - [x] __dict__ function
  - [ ] save fucntion
+ - [ ] classes
+ - [ ] features
+
 ## Mini Games
  - [ ] Fishing
 	 - [x] Base Game
