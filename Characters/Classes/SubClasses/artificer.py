@@ -1,0 +1,2 @@
+class Artificer(SubClass):
+    pass

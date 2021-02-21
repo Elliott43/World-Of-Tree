@@ -1,0 +1,2 @@
+class Spell(Consumable):
+    pass

@@ -1,0 +1,2 @@
+class ChromaticCaster(SubClass):
+    pass

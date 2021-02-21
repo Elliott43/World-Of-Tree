@@ -1,0 +1,2 @@
+class BattleCaster(SubClass):
+    pass

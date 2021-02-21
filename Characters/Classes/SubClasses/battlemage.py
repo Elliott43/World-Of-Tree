@@ -1,0 +1,2 @@
+class BattleMage(SubClass):
+    pass

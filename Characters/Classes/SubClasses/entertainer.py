@@ -1,0 +1,2 @@
+class Entertainer(SubClass):
+    pass
