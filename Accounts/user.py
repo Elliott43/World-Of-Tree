@@ -36,3 +36,12 @@ class User:
 
         self.characters = [Character(j) for j in self.characters]
         return self
+
+def converter(num : int):
+    if num < 0:
+        return converter(1114111 + num)
+    elif num > 1114111:
+
+        return converter( num - 1114111)
+    else:
+        return num
