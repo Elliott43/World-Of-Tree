@@ -24,3 +24,5 @@ class Character:
 			
 		def __str__(self):
 			return cstring(self.__dict__())
+		
+		
